@@ -1,8 +1,8 @@
-langchain==0.1.0
+langchain==0.1.30
+langchain-core==0.1.21
 langchain-community==0.0.20
-langchain-core==0.1.10
+langchain-huggingface==0.3.1
 langchain-groq==0.0.1
-langchain-huggingface==0.0.6
 streamlit==1.29.0
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
@@ -12,4 +12,4 @@ huggingface-hub==0.19.4
 transformers==4.36.2
 torch==2.1.2
 numpy==1.24.3
-pandas==2.1.4 
+pandas==2.1.4
